@@ -9,8 +9,8 @@ O projeto possuí back-end, front-end e a versão mobile, nesta aplicação o us
 da copa Qatar 2022.
 
 <div align="center" >
-  <img width="100%" src="https://user-images.githubusercontent.com/88779658/199626200-6c22bc7a-2d32-4393-9024-18c16528ae5a.png" />
-  <img width="100%" src="https://user-images.githubusercontent.com/88779658/199626192-8efcfbcd-b706-4d56-b860-31487e455beb.png" />
+  <img width="900px" src="https://user-images.githubusercontent.com/88779658/199626200-6c22bc7a-2d32-4393-9024-18c16528ae5a.png" />
+  <img width="900px" src="https://user-images.githubusercontent.com/88779658/199626192-8efcfbcd-b706-4d56-b860-31487e455beb.png" />
 </div>
 
 ## :computer: Linguagens
@@ -43,7 +43,7 @@ Você pode fazer o git clone para clonar o repo em sua máquina.</br>
 git clone https://github.com/JuniorCundari/nlw-copa.git
 ```
 <br />
-Vale destacar que é necessario iniciar o server para que os projetos web e mobile funcione perfeitamente, pois o server é quem informa os games e anúncios da aplicação.</br></br>
+Vale destacar que é necessario iniciar o server para que os projetos web e mobile funcione perfeitamente.</br></br>
 Lembre-se de baixar/atualizar as dependências do projeto com:
 
 ```bash
@@ -55,28 +55,29 @@ ou
 ```bash
 yarn
 ```
-
+---
 ### Server
 Para rodar o projeto server basta utilizar o comando.
 ```bash
 npm run dev
 ```
-
+---
 ### Web
 Para rodar o projeto na versão web basta utilizar o comando.
 ```bash
 npm run dev
 ```
-
+---
 ### Mobile
+Lembrando que é importante iniciar o simulador mobile antes de executar o comando.<br />
 Para rodar o projeto na versão mobile basta utilizar o comando.
+
 ```bash
 expo start
 ```
-Lembrando que é importante iniciar o simulador mobile antes de executar o comando.
 
 ## :star: Layout
 Você pode visualizar/copiar o layout no figma através desse
-[link.](https://www.figma.com/community/file/1150897317533332617)
+[link.](https://www.figma.com/file/OxY9YyIvkpwZAW6WZewG7C/Bol%C3%A3o-da-Copa-(Community)?node-id=0%3A1)
 
-#neverstoplearning
+#neverstoplearning #nlw
