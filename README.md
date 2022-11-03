@@ -22,7 +22,7 @@ da copa Qatar 2022.
     <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js" />
     <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   </div>
   
