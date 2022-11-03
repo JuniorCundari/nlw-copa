@@ -2,10 +2,12 @@
   <img width="300px" src="https://user-images.githubusercontent.com/88779658/199625810-3d7a0ead-c6fc-4893-89bb-91f71df75373.svg"/></br>
 </div>
 
-# :joystick: Next Level Week - Bolão da Copa 2022 | Rocketseat
+# :soccer: Next Level Week - Bolão da Copa 2022 | Rocketseat
 
-Este projeto está sendo desenvolvido durante a semana do evento.<br />
-O projeto possuí back-end, front-end e a versão mobile, nesta aplicação o usuário poderá criar e buscar um "bolão" para os resultados dos jogos 
+Next Level Week é um evento online e grátis realizado durante uma semana, evento idealizado pela Rocketseat com o objetivo de levar seus conhecimentos e skills para o próximo nível, neste evento é ensinado o que há de mais novo no mercado de tecnologia e é ministrado por grandes professores e desenvolvedores.
+
+Este projeto está sendo desenvolvido durante a semana do evento.<br /><br />
+O projeto possuí back-end, front-end e a versão mobile, nesta aplicação o usuário poderá criar e buscar um "bolão" para apostar nos resultados dos jogos 
 da copa Qatar 2022.
 
 <div align="center" >
