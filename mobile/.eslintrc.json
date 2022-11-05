@@ -5,7 +5,9 @@
   },
   "extends": [
     "plugin:react/recommended",
-    "airbnb"
+    "airbnb",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
@@ -36,6 +38,9 @@
     "import/extensions": "off",
     "react/jsx-props-no-spreading": "off",
     "react/require-default-props": "off",
-    "camelcase": "off"
+    "camelcase": "off",
+    "react/no-unstable-nested-components": "off",
+    "react/jsx-no-constructed-context-values": "off",
+    "@typescript-eslint/no-empty-function": "off"
   }
 }
