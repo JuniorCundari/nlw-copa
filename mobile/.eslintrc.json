@@ -41,6 +41,9 @@
     "camelcase": "off",
     "react/no-unstable-nested-components": "off",
     "react/jsx-no-constructed-context-values": "off",
-    "@typescript-eslint/no-empty-function": "off"
+    "@typescript-eslint/no-empty-function": "off",
+    "react/jsx-no-bind": "off",
+    "consistent-return": "off",
+    "no-underscore-dangle": "off"
   }
 }
