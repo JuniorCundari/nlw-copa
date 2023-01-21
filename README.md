@@ -48,7 +48,7 @@ Vale destacar que é necessario iniciar o server para que os projetos web e mobi
 Lembre-se de baixar/atualizar as dependências do projeto com:
 
 ```bash
-npm
+npm i
 ```
 
 ou
